@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">agendaApp</string>
+    <string name="tituloApp">Agenda</string>
+    <string name="labelCodigo">Codigo</string>
+    <string name="labelAssunto">Assunto</string>
+    <string name="LabelData">Data</string>
+    <string name="labelDescricao">Descricao</string>
+    <string name="botaoInserir">Iserir</string>
+</resources>
